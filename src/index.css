@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
   margin: 0;
 }
@@ -15,3 +16,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+=======
+body{
+  margin: 0;
+  font-family: 'Poppins';
+  background-color: #f6f6f6;
+  height: 100vh;
+}
+>>>>>>> 7aa2875 (Create a Navbar for Admin Page)
